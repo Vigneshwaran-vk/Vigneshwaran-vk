@@ -15,7 +15,7 @@
 🌱 Currently Learning
 
 * Java (DSA & Problem Solving)
-* Spring Boot
+* Frontend Development
 * React.js
 * REST APIs
 * SQL
@@ -38,7 +38,7 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/vigneshwaran-v-b6a01b294/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -46,7 +46,7 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:vigneshwaranvicky9091@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -59,7 +59,7 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql"/>
 </p>
 
 ### Frameworks & Libraries
@@ -78,47 +78,9 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 
 # 📂 Current Projects
 
-🚀 Full Stack Web Development Projects
-
-🔐 Cybersecurity Practice Labs
-
-📚 Java DSA Programs
-
-🌐 REST API Projects
+🚀 Advanced E-Learning Web Development Projects
 
 💡 College & Hackathon Projects
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</p>
 
 ---
 
@@ -126,9 +88,6 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 
 * LeetCode
 * HackerRank
-* CodeChef
-* Codeforces
-
 (Add your profile links here.)
 
 ---
@@ -136,11 +95,11 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 # 📚 Currently Learning
 
 * Data Structures & Algorithms
-* Spring Boot
 * React.js
+* Frontend Development
 * Backend Development
 * REST APIs
-* Database Design
+* Database Management
 * Secure Coding Practices
 
 ---
