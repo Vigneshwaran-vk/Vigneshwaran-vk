@@ -104,18 +104,4 @@ Become a skilled Full Stack Developer while building secure and scalable applica
 
 ---
 
-# 💡 Quote
-
-> "Consistency beats intensity. Build something every day."
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
-
-</p>
-
----
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
